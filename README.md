@@ -31,7 +31,7 @@ stuff. Hopefully more stuff will come soon.
 
 ### Commissions and Coding for you
 
-Im very open and happy to code discord bots and simular stuff for people, if its small enough ill do it for free but larger projects may cost. My bots are written to run on heroku and in node.js. I also require that the be open source on my profile. If you want anything then just hit me up on GitHub or Discord.
+Im very open and happy to code discord bots and simular stuff for people, if its small enough ill do it for free but larger projects may cost. My bots are written to run on heroku and in node.js. I also require that they be open source on my profile. If you want anything then just hit me up on GitHub or Discord.
 
 ### Stuff I Use:
 

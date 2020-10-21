@@ -19,7 +19,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-569577.png" />][vs]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 [<img align="left" alt="Node.js" width="26px" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4" />][nodejs]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" />][java]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/frame256.png" />][netbeans]
 
 <br />

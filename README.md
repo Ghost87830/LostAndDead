@@ -15,7 +15,7 @@
 
 ### Key Repos
 
-[Mcss Discord Bot][https://github.com/mcserversoft/DiscordBot]
+[Mcss Discord Bot](https://github.com/mcserversoft/DiscordBot)
 > Built fully and maintained by me for the mcss discord server
 
 ### Stuff I Use:

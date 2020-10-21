@@ -5,7 +5,11 @@
 
 ## I'm a Student and Junior Software Developer
 
-- wip
+- I am a student currently in college taking an IT course
+- I work as a Junior Software Developer for PreciselySo Limited
+- I have written COM port protocols and are working on a few other things
+- Mostly code to mess around, nothing is super serious
+- Mostly write discord bots using js
 
 [<img align="left" alt="LostAndDead.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LostAndDead | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -21,11 +25,9 @@
 > My profile page that you see here
 
 
-> Unfortunatly most of my main work is private
->
-> this is just due to the nature in which i make
->
-> stuff. Hopefully more stuff will come soon.
+Unfortunatly most of my main work is private
+this is just due to the nature in which i make
+stuff. Hopefully more stuff will come soon.
 
 ### Stuff I Use:
 

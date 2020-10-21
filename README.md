@@ -40,8 +40,8 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
+[website]: https://lostanddead.co.uk
+[twitter]: https://twitter.com/lostanddead9001
 [discord]: https://discord.bio/p/lostndead
 [vscode]: https://code.visualstudio.com/
 [vs]: https://visualstudio.microsoft.com/

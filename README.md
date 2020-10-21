@@ -45,4 +45,5 @@
 [vs]: https://visualstudio.microsoft.com/
 [js]: https://www.javascript.com/
 [nodejs]: https://nodejs.org/en/
+[java]: https://www.java.com/en/download/
 [netbeans]: https://netbeans.org/

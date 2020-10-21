@@ -15,8 +15,15 @@
 
 ### Key Repos
 
-[Mcss Discord Bot](https://github.com/mcserversoft/DiscordBot)
+- [Mcss Discord Bot](https://github.com/mcserversoft/DiscordBot)
 > Built fully and maintained by me for the mcss discord server
+- [My Profile](https://github.com/LostAndDead/LostAndDead)
+> My profile page that you see here
+
+
+> Unfortunatly most of my main work is private
+> this is just due to the nature in which i make
+> stuff. Hopefully more stuff will come soon.
 
 ### Stuff I Use:
 

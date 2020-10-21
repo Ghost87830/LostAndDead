@@ -29,6 +29,10 @@ Unfortunatly most of my main work is private
 this is just due to the nature in which i make
 stuff. Hopefully more stuff will come soon.
 
+### Commissions and Coding for you
+
+Im very open and happy to code discord bots and simular stuff for people, if its small enough ill do it for free but larger projects may cost. My bots are written to run on heroku and in node.js. I also require that the be open source on my profile. If you want anything then just hit me up on GitHub or Discord.
+
 ### Stuff I Use:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]

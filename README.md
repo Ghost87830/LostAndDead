@@ -20,6 +20,7 @@
 <br />
 <br />
 
+### Recent Activity
 
 <!--START_SECTION:activity-->
 1.
@@ -28,6 +29,13 @@
 4.
 5.
 <!--END_SECTION:activity-->
+
+<br />
+<br />
+
+### Github Stats
+
+<br />
 
 <img align="left" alt="LostAndDead's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LostAndDead&show_icons=true&hide_border=true" />
 

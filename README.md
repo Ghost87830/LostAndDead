@@ -22,7 +22,9 @@
 
 
 > Unfortunatly most of my main work is private
+>
 > this is just due to the nature in which i make
+>
 > stuff. Hopefully more stuff will come soon.
 
 ### Stuff I Use:

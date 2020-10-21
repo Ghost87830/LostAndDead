@@ -27,8 +27,8 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1.
-2.
+1. 🗣 Commented on [#4853](https://github.com/discordjs/discord.js/issues/4853) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+2. ❗️ Opened issue [#4853](https://github.com/discordjs/discord.js/issues/4853) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
 3.
 4.
 5.
